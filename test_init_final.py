@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*- 
 
 ################ V4 #####################
@@ -1564,5 +1563,3 @@ while True:
 
 	print("Bot restarting")
 	client = discord.Client(loop=client.loop)
-test_init_final.py
-test_init_final.py 표시 중입니다.
